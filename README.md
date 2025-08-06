@@ -1,4 +1,7 @@
+# Securing CoreBanking Infrastructure on AWS 
+
 # Infrastructure Setup Documentation
+CloudNG.com runs a CoreBankingAPI application on an EC2 instance inside a private subnet of the stagingVPC. This instance is not exposed to the internet for security reasons, yet it needs to list and create S3 bucket test-ml-bkt-emma.
 
 ## VPC Configuration
 I created a new **Virtual Private Cloud (VPC)** named `STAGING` `50.0.0.0/16` in the **eu-west-1** region.
