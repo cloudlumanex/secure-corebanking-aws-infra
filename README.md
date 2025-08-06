@@ -17,7 +17,9 @@ I configured two subnets:
 ## Route Tables
 I created two route tables:
 - **Public RT**: Associated with the public subnet. 
-- **Private RT**: Associated with the private subnet. 
+- **Private RT**: Associated with the private subnet.
+- <img width="808" height="338" alt="Image" src="https://github.com/user-attachments/assets/ee52df69-1595-492c-ab21-ed695bbcd93e" />
+- <img width="808" height="352" alt="Image" src="https://github.com/user-attachments/assets/412d1121-e289-4f55-b7ea-20c10e698809" />
 
 ---
 
