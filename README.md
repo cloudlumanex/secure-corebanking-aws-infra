@@ -45,6 +45,8 @@ Created two security groups:
 - **Protocol**: TCP  
 - **Port**: 22  
 - **Source**: Bastion-SG (only allows SSH from Bastion Host)
+- <img width="815" height="277" alt="Image" src="https://github.com/user-attachments/assets/2976d9a7-83f5-4789-862b-1bed6264c8c9" />
+- <img width="926" height="320" alt="Image" src="https://github.com/user-attachments/assets/4a923b3a-5721-406a-bba5-38b712fc8ac3" />
 
 ---
 
