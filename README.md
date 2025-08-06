@@ -80,6 +80,7 @@ To allow the private subnet to access the internet:
 ## S3 Bucket
 - Created an S3 bucket named `test-ml-bucket-emma`.
 - Uploaded two files to the bucket.
+- <img width="1018" height="332" alt="Image" src="https://github.com/user-attachments/assets/f6baae04-269d-4d0e-8813-c36ae1459f92" />
 
 ---
 
