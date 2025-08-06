@@ -28,6 +28,7 @@ To enable internet access:
 - Created an **Internet Gateway (IGW)**.
 - Attached the IGW to the VPC.
 - Added a route in the **Public RT** to direct internet-bound traffic (`0.0.0.0/0`) through the IGW.
+- <img width="810" height="220" alt="Image" src="https://github.com/user-attachments/assets/ccc8f468-6d99-4541-b403-e10b2a33a70e" />
 
 ---
 
