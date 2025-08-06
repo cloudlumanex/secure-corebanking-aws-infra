@@ -100,5 +100,7 @@ To allow the private subnet to access the internet:
 - SSH access was successfully established to the **BastionHost-VM** (public instance).
 - From the BastionHost-VM, SSH access was established to the **CoreBankApp-VM** (private instance).
 - After installing AWS CLI on the private instance, I was able to access the S3 bucket.
+- <img width="730" height="461" alt="Image" src="https://github.com/user-attachments/assets/357152ff-e424-41f0-9d40-da77352c6a15" />
+- <img width="864" height="395" alt="Image" src="https://github.com/user-attachments/assets/418f5922-d621-42ee-b0f7-97f9eb563e74" />
 
 ---
