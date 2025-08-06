@@ -86,6 +86,7 @@ To allow the private subnet to access the internet:
 
 ## IAM Policy Assignment
 - Attached an **S3 access policy** to the IAM role associated with **CoreBankApp-VM**, allowing it to interact with the S3 bucket from within the private subnet.
+- <img width="941" height="400" alt="Image" src="https://github.com/user-attachments/assets/cf571fa2-ad7c-4d68-abd1-4389ac8d6e52" />
 
 ---
 
