@@ -7,8 +7,10 @@ I created a new **Virtual Private Cloud (VPC)** named `STAGING` `50.0.0.0/16` in
 
 ## Subnets
 I configured two subnets:
-- **Public Subnet**: `50.0.50.0/24` Enabled *Auto-assign Public IP*.
+- **Public Subnet**: `50.0.20.0/24` Enabled *Auto-assign Public IP*.
 - **Private Subnet** `50.0.80.0/24`
+- <img width="652" height="302" alt="Image" src="https://github.com/user-attachments/assets/1543aeca-141b-417a-a3ff-536b8e15356e" />
+- <img width="667" height="239" alt="Image" src="https://github.com/user-attachments/assets/42a78fcc-2ee6-474f-aa83-8dc3f9b15507" />
 
 ---
 
