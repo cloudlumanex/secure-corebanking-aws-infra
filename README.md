@@ -1,7 +1,7 @@
 # Securing CoreBanking Infrastructure on AWS 
 
 ## Infrastructure Setup Documentation
-This project configures an EC2 instance in a private subnet of staging VPC to interact with S3 bucket test-ml-bkt for listing and creating buckets, without public internet exposure. Features include a Bastion Host for secure SSH access, a NAT Gateway for outbound connectivity, an S3 bucket with IAM permissions, and AWS CLI integration.
+This project configures an EC2 instance in a private subnet of staging VPC to interact with S3 bucket test-ml-bkt-emma for listing and creating buckets, without public internet exposure. Features include a Bastion Host for secure SSH access, a NAT Gateway for outbound connectivity, an S3 bucket with IAM permissions, and AWS CLI integration.
 
 ## VPC Configuration
 I created a new **Virtual Private Cloud (VPC)** named `STAGING` `50.0.0.0/16` in the **eu-west-1** region.
