@@ -92,6 +92,7 @@ To allow the private subnet to access the internet:
 
 ## AWS CLI Installation
 - Installed **AWS CLI** on the **CoreBankApp-VM**.
+- <img width="857" height="240" alt="Image" src="https://github.com/user-attachments/assets/4741ccc9-8bb0-41ff-bb5e-89dda73b933d" />
 
 ---
 
