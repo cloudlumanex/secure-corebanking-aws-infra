@@ -73,6 +73,7 @@ To allow the private subnet to access the internet:
 - Created a **NAT Gateway** in the public subnet.
 - Assigned an **Elastic IP** to the NAT Gateway.
 - Added a route in the **Private RT** to direct internet-bound traffic through the NAT Gateway.
+- <img width="1637" height="590" alt="Image" src="https://github.com/user-attachments/assets/9e190845-745e-44bb-827e-1a3ddac58e2f" />
 
 ---
 
