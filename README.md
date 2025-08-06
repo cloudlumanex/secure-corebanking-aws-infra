@@ -63,6 +63,7 @@ Launched two EC2 instances using **Ubuntu AMI** and **t2.micro**:
 
 Created a **key pair** for secure SSH access.  
 Selected **8 GiB SSD** as the root volume.
+<img width="816" height="272" alt="Image" src="https://github.com/user-attachments/assets/2c76363c-24ac-444b-b4f0-edc040251f38" />
 
 ---
 
